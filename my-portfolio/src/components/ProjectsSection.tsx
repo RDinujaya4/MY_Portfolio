@@ -31,7 +31,7 @@ const ProjectsSection = () => {
       image: project3,
       category: "Full-Stack Development",
       title: "Banana Math Blitz",
-      description: "Collaborative project management tool with real-time updates, team communication features, and advanced project tracking capabilities.",
+      description: "Designed and developed an interactive educational math game that challenges players with puzzles of increasing difficulty using banana API.",
       tags: ["HTML", "Firebase", "Cookies", "Git"],
       liveUrl: "#",
       githubUrl: "#"
