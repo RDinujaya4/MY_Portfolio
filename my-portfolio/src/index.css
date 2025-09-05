@@ -156,3 +156,11 @@ All colors MUST be HSL.
     transform: rotate(-10deg); 
   }
 }
+
+/* Hide native cursor on desktop only when body has .cursor-hide */
+@media (pointer: fine) {
+  body.cursor-hide { cursor: none; }
+}
+/* Prevent accidental horizontal scroll anywhere */
+html, body, #root { height: 100%; }
+body { overflow-x: hidden; }
