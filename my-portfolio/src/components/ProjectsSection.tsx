@@ -10,9 +10,9 @@ const ProjectsSection = () => {
       id: 1,
       image: project1,
       category: "Mobile Development",
-      title: "ShopEase Mobile App",
-      description: "React Native e-commerce application with seamless user experience, integrated payment systems, and real-time inventory management.",
-      tags: ["React Native", "Node.js", "MongoDB", "Stripe"],
+      title: "SafeWalk Mobile App",
+      description: "React Native safety application with seamless user experience, and real-time notification system through cloud function and geofencing.",
+      tags: ["React Native", "Firebase", "Cloud Run", "AI"],
       liveUrl: "#",
       githubUrl: "#"
     },
@@ -20,9 +20,9 @@ const ProjectsSection = () => {
       id: 2,
       image: project2,
       category: "Web Development", 
-      title: "Analytics Dashboard",
-      description: "Full-stack web application providing comprehensive business analytics with interactive data visualizations and real-time reporting.",
-      tags: ["React", "TypeScript", "Python", "PostgreSQL"],
+      title: "New City Hardware",
+      description: "Full-stack web application providing comprehensive business analytics with real-time inventory management system and customer shopping side.",
+      tags: ["React", "JavaScript", "Firebase", "Cloud Run"],
       liveUrl: "#",
       githubUrl: "#"
     },
@@ -30,9 +30,9 @@ const ProjectsSection = () => {
       id: 3,
       image: project3,
       category: "Full-Stack Development",
-      title: "Task Management Platform",
+      title: "Banana Math Blitz",
       description: "Collaborative project management tool with real-time updates, team communication features, and advanced project tracking capabilities.",
-      tags: ["Next.js", "Prisma", "WebSocket", "AWS"],
+      tags: ["HTML", "Firebase", "Cookies", "Git"],
       liveUrl: "#",
       githubUrl: "#"
     }
