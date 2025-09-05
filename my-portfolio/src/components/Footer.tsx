@@ -14,12 +14,12 @@ const Footer = () => {
     },
     {
       icon: Mail,
-      href: "mailto:rayan@example.com",
+      href: "mailto:rayandinujaya4@gmail.com",
       label: "Email"
     },
     {
       icon: Phone,
-      href: "tel:+94123456789",
+      href: "tel:+94750994300",
       label: "Phone"
     }
   ];
@@ -86,7 +86,7 @@ const Footer = () => {
                   href="mailto:rayan@example.com"
                   className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
                 >
-                  rayan@example.com
+                  rayandinujaya4@gmail.com
                 </a>
               </div>
               <div className="flex items-center">
@@ -95,7 +95,7 @@ const Footer = () => {
                   href="tel:+94123456789"
                   className="text-primary-foreground/80 hover:text-primary-foreground transition-colors"
                 >
-                  +94 123 456 789
+                  +94 750 994 300
                 </a>
               </div>
             </div>
@@ -104,7 +104,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">
           <p className="text-primary-foreground/60 text-sm">
-            © 2024 Rayan Dinujaya. All rights reserved. Built with React & TypeScript.
+            © 2025 Rayan Dinujaya. All rights reserved. Built with React & TypeScript.
           </p>
         </div>
       </div>
