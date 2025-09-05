@@ -48,7 +48,7 @@ const AboutSection = () => {
               href="tel:+94123456789" 
               className="text-text-large font-semibold text-lg hover:text-accent-purple transition-colors"
             >
-              +94 123 456 789
+              +94 750 994 300
             </a>
           </div>
           <div className="text-center md:text-right">
@@ -57,7 +57,7 @@ const AboutSection = () => {
               href="mailto:rayan@example.com" 
               className="text-text-large font-semibold text-lg hover:text-accent-purple transition-colors"
             >
-              rayan@example.com
+              rayandinujaya4@gmail.com
             </a>
           </div>
         </div>
